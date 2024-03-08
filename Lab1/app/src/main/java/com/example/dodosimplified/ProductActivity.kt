@@ -52,8 +52,7 @@ class ProductActivity : AppCompatActivity() {
                 }
         }
         binding.returnButton.setOnClickListener{
-            val intent = Intent(this,MainActivity::class.java)
-            startActivity(intent)
+            onBackPressed();
         }
     }
 }
