@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "com.example.dodosimplified.app-mergeDebugResources-46:/layout/activity_product.xml",
+        "source": "com.example.dodosimplified.app-main-49:/layout/activity_product.xml"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-mergeDebugResources-46:/layout/item_combo.xml",
+        "source": "com.example.dodosimplified.app-main-49:/layout/item_combo.xml"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-mergeDebugResources-46:/layout/activity_main.xml",
+        "source": "com.example.dodosimplified.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-mergeDebugResources-46:/layout/item_pizza.xml",
+        "source": "com.example.dodosimplified.app-main-49:/layout/item_pizza.xml"
+    }
+]

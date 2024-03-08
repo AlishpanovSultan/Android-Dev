@@ -1,0 +1,3 @@
+com.example.dodosimplified.test
+style WhiteBackgroundDialogTheme
+style WhiteBackgroundTheme

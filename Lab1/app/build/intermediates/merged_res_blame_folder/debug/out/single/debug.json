@@ -1,0 +1,130 @@
+[
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.dodosimplified.app-main-49:/mipmap-xxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/drawable_baseline_arrow_back_ios_new_24.xml.flat",
+        "source": "com.example.dodosimplified.app-main-49:/drawable/baseline_arrow_back_ios_new_24.xml"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/drawable_cheeze_pizza.webp.flat",
+        "source": "com.example.dodosimplified.app-main-49:/drawable/cheeze_pizza.webp"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dodosimplified.app-main-49:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dodosimplified.app-main-49:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/drawable_baseline_search_24.xml.flat",
+        "source": "com.example.dodosimplified.app-main-49:/drawable/baseline_search_24.xml"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.dodosimplified.app-main-49:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dodosimplified.app-main-49:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/drawable_ham_mushrooms_pizza.webp.flat",
+        "source": "com.example.dodosimplified.app-main-49:/drawable/ham_mushrooms_pizza.webp"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/drawable_pepperoni_s_gribami.webp.flat",
+        "source": "com.example.dodosimplified.app-main-49:/drawable/pepperoni_s_gribami.webp"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/xml_backup_rules.xml.flat",
+        "source": "com.example.dodosimplified.app-main-49:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.dodosimplified.app-main-49:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/drawable_smewariki_combo.webp.flat",
+        "source": "com.example.dodosimplified.app-main-49:/drawable/smewariki_combo.webp"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/drawable_mixic_pizza.webp.flat",
+        "source": "com.example.dodosimplified.app-main-49:/drawable/mixic_pizza.webp"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dodosimplified.app-main-49:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/drawable_bavarian_pizza.webp.flat",
+        "source": "com.example.dodosimplified.app-main-49:/drawable/bavarian_pizza.webp"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/layout_item_pizza.xml.flat",
+        "source": "com.example.dodosimplified.app-main-49:/layout/item_pizza.xml"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.dodosimplified.app-main-49:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/drawable_background_dodo.xml.flat",
+        "source": "com.example.dodosimplified.app-main-49:/drawable/background_dodo.xml"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/drawable_naruto_picca.webp.flat",
+        "source": "com.example.dodosimplified.app-main-49:/drawable/naruto_picca.webp"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.dodosimplified.app-main-49:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/drawable_dodster_jump.webp.flat",
+        "source": "com.example.dodosimplified.app-main-49:/drawable/dodster_jump.webp"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/layout_activity_main.xml.flat",
+        "source": "com.example.dodosimplified.app-main-49:/layout/activity_main.xml"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/layout_item_combo.xml.flat",
+        "source": "com.example.dodosimplified.app-main-49:/layout/item_combo.xml"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/layout_activity_product.xml.flat",
+        "source": "com.example.dodosimplified.app-main-49:/layout/activity_product.xml"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/drawable_baseline_info_outline_24.xml.flat",
+        "source": "com.example.dodosimplified.app-main-49:/drawable/baseline_info_outline_24.xml"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.dodosimplified.app-main-49:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.dodosimplified.app-main-49:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.dodosimplified.app-main-49:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.dodosimplified.app-main-49:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.dodosimplified.app-main-49:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.dodosimplified.app-merged_res-47:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.dodosimplified.app-main-49:/drawable/ic_launcher_foreground.xml"
+    }
+]
